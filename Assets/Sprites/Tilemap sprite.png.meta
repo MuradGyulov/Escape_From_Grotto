@@ -138,6 +138,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1048,6 +1049,45 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Tilemap sprite_12: -4452794703278345094
+      Tilemap sprite_30: -3291664266618153826
+      Tilemap sprite_16: -7680587945537622449
+      Tilemap sprite_10: 5275856956769135351
+      Tilemap sprite_32: 1437400925762193163
+      Tilemap sprite_36: 3173563000108979959
+      Tilemap sprite_13: 1069329508896175234
+      Tilemap sprite_2: -4829417439573755878
+      Tilemap sprite_1: 2609359533236559401
+      Tilemap sprite_3: -7550437756482925004
+      Tilemap sprite_18: 3313946574088926559
+      Tilemap sprite_6: 2458299135076647128
+      Tilemap sprite_4: 7686361632684480825
+      Tilemap sprite_21: 955350399369960022
+      Tilemap sprite_24: 7382898790498021600
+      Tilemap sprite_8: -1199609221527450287
+      Tilemap sprite_19: 3339975659262592752
+      Tilemap sprite_35: 3362649551963547010
+      Tilemap sprite_7: -8126001473543776599
+      Tilemap sprite_14: 4411306313453095448
+      Tilemap sprite_37: 1454762737063570932
+      Tilemap sprite_20: 807520762670620867
+      Tilemap sprite_0: 8252242538100484532
+      Tilemap sprite_27: -2475899545460921619
+      Tilemap sprite_26: -8944746646187570424
+      Tilemap sprite_31: 2442491489924032247
+      Tilemap sprite_28: -136638627414305476
+      Tilemap sprite_17: 8589518606277192723
+      Tilemap sprite_11: 7832645842131419037
+      Tilemap sprite_29: -7671176259815228342
+      Tilemap sprite_33: 8163597388066151104
+      Tilemap sprite_34: -5761159385510195085
+      Tilemap sprite_23: -8958975170240150129
+      Tilemap sprite_9: -6837329440551451024
+      Tilemap sprite_5: -6516812595048311063
+      Tilemap sprite_15: 2487799224868925864
+      Tilemap sprite_22: -7733762233339218064
+      Tilemap sprite_25: -4427199694470149794
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

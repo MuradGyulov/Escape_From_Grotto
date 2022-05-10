@@ -123,6 +123,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -991,6 +992,43 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Slug dead 3: -532960962129546369
+      Slug dead 15: 6159244442380671589
+      Player idle: -7294420001024054107
+      Slug move 1: -1960546628078278901
+      Slug move 2: 8248543377919322394
+      Host 1: 8902602265628216436
+      Damage 6: 7649489486189614792
+      Slug dead 11: -1965401998591550813
+      Damage 3: 3112702236248781428
+      Slug dead 7: 6440628458277568191
+      Slug dead 14: 3554242101514492605
+      Player shoot 2: 2524672464699868528
+      Slug dead 4: -479236782097018826
+      Slug dead 8: -7424387843487759793
+      Damage 1: 2807314771408455767
+      Slug dead 9: 651816595902088185
+      Player shoot 3: 6959903428354653788
+      Slug dead 13: -6685782176977451322
+      Damage 4: 115972425246325791
+      Slug dead 2: -2499558952833973110
+      Slug move 3: 57365866442116020
+      Player run 2: -3900865896487506860
+      Slug dead 12: 8760199315114398310
+      Slug dead 1: -9119583415266913145
+      Player shoot 1: -8914790497551329202
+      Slug dead 6: 4769413903677429357
+      Slug dead 5: -4791017427084006217
+      Host 3: 7192599230480733807
+      Slug dead 10: 6716731256078600817
+      Player Jump: 7290465196510871772
+      Player run 3: -6024688992238447948
+      Damage 2: -7914586359189542566
+      Player dead: 3542127132570728493
+      Host 2: 2861855363009835268
+      Player run 1: -4460049956898060331
+      Damage 5: 1808964706522467271
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

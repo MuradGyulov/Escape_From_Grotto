@@ -75,6 +75,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -544,6 +545,24 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Sleeve: -2435357634609868841
+      Special sprites_12: 2085212839319074081
+      Canion amo: 252258954975426995
+      Canion: -615799674329731397
+      Canion2: -3525781104079741543
+      Bullet: 3345363318747264295
+      Spike: -3793742071339802281
+      Gate 2: -5459446774344600153
+      Lava surface: -3527314846200589317
+      Stalagmit 2: 9048971177759838231
+      Key block: 955917646217023146
+      Gates: 7807616941595406105
+      Box: -452439388991611657
+      Special sprites_11: 1327947792341472740
+      Key Block 2: -6454787302307365357
+      Key: 4019156669862093802
+      Stalagmit 1: 402912737361321355
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
